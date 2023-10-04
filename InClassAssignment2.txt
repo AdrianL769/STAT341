@@ -1,0 +1,8 @@
+﻿levels(df$poison)
+PATH <- <a href=https://raw.githubusercontent.com/owid/covid-19-data/master/.public/data/owid-covid-data.csv"s.csv" df <- read.csv(PATH) %>% select(-X) %>% mutate(new_cases = factor(new_cases, ordered = TRUE)) glimpse(df)
+df % > % group_by(new_cases) % > % summarise( count_poison = n(), mean_total_cases = mean(time, na.rm = TRUE), sd_time = sd(time, na.rm = TRUE) )
+ggplot(df, aes(x = new_cases, y = total_cases, fill = poison)) + geom_boxplot() + geom_jitter(shape = 15, color = "steelblue", position = position_jitter(0.21)) + theme_classic()
+anova_one_way <- aov(total_cases new_cases, data = df) summary(anova_one_way)
+
+
+Output: 47,485
