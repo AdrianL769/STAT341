@@ -1,0 +1,8 @@
+﻿The 2.5th percentile of Student t distribution with 5 degrees of freedom is: -2.570582 
+The 95th percentile of the F distribution with (5, 2) degrees of freedom is: 19.29641 
+The 97.5th percentile of Student t distribution with 5 degrees of freedom is: 2.570582 
+The 95th percentile of the Chi-Squared distribution with 7 degrees of freedom is: 14.06714 
+The probability of having seventeen or more cars crossing the bridge in a minute is: 0.101291 
+The cumulative probability of observing 4 or fewer successes in a binomial distribution with size 12 and probability 0.2 is: 0.9274445 
+The cumulative probability of observing 16 or fewer events in a Poisson distribution with lambda 12 is: 0.898709 
+Generated random numbers: 1.887643 2.072203 1.085281 1.947376 2.323752 2.509848 1.796028 1.647028 1.173774 1.100791
