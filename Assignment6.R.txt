@@ -1,0 +1,12 @@
+﻿Paired T-Test Results:
+----------------------
+Sample means:
+x:  10.5 
+y:  30.5 
+----------------------
+Paired T-Test:
+t-value: -10.69045 
+p-value: 5.168296e-13 
+----------------------
+Confidence interval for the difference:
+95% CI: [ -23.78729,  -16.21271 ]
